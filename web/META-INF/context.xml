@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="testWebApp" docBase="testWebApp" crossContext="true" reloadable="true" >
+    <Resource
+            name="jdbc/touristAgency"
+            author="Container"
+            type="javax.sql.DataSource"
+            maxTotal="32"
+            maxIdle="8"
+            maxWaitMillis="10000"
+            username="zhecka"
+            password="zhecka"
+            driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+            url="jdbc:sqlserver://DESKTOP-QUKU3SI\SQLEXPRESS;database=touristAgency"
+        />
+</Context>

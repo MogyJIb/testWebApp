@@ -1,0 +1,21 @@
+2017-11-03T14:11:28,464 [ERROR] (TestRunner.java:18) - asdsadas
+java.lang.IndexOutOfBoundsException: ex
+	at by.gstu.training.TestRunner.main(TestRunner.java:18) [testWebApp/:?]
+2017-11-03T14:12:36,858 [ERROR] (TestRunner.java:18) - asdsadas
+java.lang.IndexOutOfBoundsException: ex
+	at by.gstu.training.TestRunner.main(TestRunner.java:18) [testWebApp/:?]
+2017-11-03T14:12:44,005 [INFO ] (TestRunner.java:16) - All successful
+2017-11-03T14:12:44,008 [DEBUG] (TestRunner.java:17) - sasdasd
+2017-11-03T14:12:44,009 [ERROR] (TestRunner.java:18) - asdsadas
+java.lang.IndexOutOfBoundsException: ex
+	at by.gstu.training.TestRunner.main(TestRunner.java:18) [testWebApp/:?]
+2017-11-03T14:13:02,600 [INFO ] (TestRunner.java:16) - All successful
+2017-11-03T14:13:02,606 [DEBUG] (TestRunner.java:17) - sasdasd
+2017-11-03T14:13:02,606 [ERROR] (TestRunner.java:18) - asdsadas
+java.lang.IndexOutOfBoundsException: ex
+	at by.gstu.training.TestRunner.main(TestRunner.java:18) [testWebApp/:?]
+2017-11-03T14:13:07,329 [INFO ] (TestRunner.java:16) - All successful
+2017-11-03T14:13:07,334 [DEBUG] (TestRunner.java:17) - sasdasd
+2017-11-03T14:13:07,335 [ERROR] (TestRunner.java:18) - asdsadas
+java.lang.IndexOutOfBoundsException: ex
+	at by.gstu.training.TestRunner.main(TestRunner.java:18) [testWebApp/:?]
